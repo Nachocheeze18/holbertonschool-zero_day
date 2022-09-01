@@ -1,1 +1,1 @@
-My first readme
+opening file with emacs
